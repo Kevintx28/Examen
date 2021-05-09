@@ -26,7 +26,11 @@ nota3=input.nextInt();
 System.out.println("nota de su cuarta"+""+"evaluacion");
 nota4=input.nextInt();
 
+<<<<<<< HEAD
 puntaje1=(20/100)*nota1;
+=======
+puntaje1=(20f/100f)*nota1;
+>>>>>>> a7c378a87b6a51487264f4176f091facf057053d
 System.out.println(puntaje1);
 
 puntaje2=(15f/100f)*nota2;
